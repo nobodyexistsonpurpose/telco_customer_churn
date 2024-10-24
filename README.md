@@ -34,4 +34,4 @@ But such results were expected even at the analysis stage because we have seen t
 
 There can be two reasons for such results. Either we need to have more additional features (because our features give us not enough information) or we need to think about some non-trivial feature transformation. But if we look at visualization of our points we can assume that for all transformations our 1-class points which locate among the 0-class ones will just move to another coordinates WITH whose blue points 
 
-**REMARK: THIS FILE IS CONTINUOUSLY UPDATING BECAUSE I SOMETIMES MAKE SOME FUTHER INVESTIGATIONS IN IT**
+**REMARK: THIS FILE IS CONTINUOUSLY UPDATING BECAUSE I SOMETIMES MAKE SOME FUTHER INVESTIGATIONS IN THE PROJECT**
