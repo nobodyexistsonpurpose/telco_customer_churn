@@ -30,6 +30,8 @@ During the analysis and model applying the next steps and results were done and 
 
 Generally all of the models gives us large errors in precision and recall. That means that they give us many false positives and false negatives answers.
 
-But such results were expected even at the analysis stage because we have seen that datapoints cannot be perfectly splitted.
+But such results were expected even at the analysis stage because we have seen that datapoints cannot be perfectly splitted by some simple model. We need to 
 
 There can be two reasons for such results. Either we need to have more additional features (because our features give us not enough information) or we need to think about some non-trivial feature transformation. But if we look at visualization of our points we can assume that for all transformations our 1-class points which locate among the 0-class ones will just move to another coordinates WITH whose blue points 
+
+**REMARK: THIS FILE IS CONTINUOUSLY UPDATING BECAUSE I SOMETIMES MAKE SOME FUTHER INVESTIGATIONS IN IT**
